@@ -1,0 +1,4 @@
+from aws_lambda_powertools.event_handler import APIGatewayRestResolver
+from aws_lambda_powertools.utilities.typing.lambda_context import LambdaContext
+
+app = APIGatewayRestResolver()
