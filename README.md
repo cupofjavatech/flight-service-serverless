@@ -4,6 +4,14 @@ A serverless Python microservice built on AWS Lambda and Amazon DynamoDB for man
 
 ---
 
+## 🛠️️ [▶️ Watch on YouTube] - Playlist
+
+
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YXEwjH1tjMI&list=PLU3jgQS1Yx-M)
+
+---
+
 ## 🛠️️ Tech Stack & Requirements
 
 * **Language**: Python (3.15+)
